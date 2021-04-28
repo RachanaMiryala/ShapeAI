@@ -47,7 +47,7 @@ z-index : 1;
 	color: gray;
 }
 
-a{
+.menu li a , .main-text a{
 	text-decoration: none;
 }
 
